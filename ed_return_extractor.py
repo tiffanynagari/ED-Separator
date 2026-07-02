@@ -42,7 +42,7 @@ drive_service = build("drive", "v3", credentials=creds)
 # ---- 1. Config --------------------------------------------------------------
 SOURCE_SHEET_ID = "1R955518MNXsmTF77v2IrYIvd6K-qWPoOH57TxvERzuY"
 SOURCE_TAB = "ED - Store"
-DATA_RANGE = "A20:L900"   # raw data range, no header row
+DATA_RANGE = "A20:L"   # raw data range, no header row
 
 # Optional: put outputs into an EXISTING Drive folder instead of creating a
 # new one. Leave as None to auto-create a dated folder.
