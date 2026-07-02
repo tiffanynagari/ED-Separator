@@ -1,0 +1,17 @@
+{
+  "generatedAt": "2026-07-02T00:00:00",
+  "dateTag": "placeholder",
+  "folderUrl": null,
+  "totals": {
+    "grossValueAtRisk": 0,
+    "uniqueSkus": 0,
+    "branches": 0,
+    "rows": 0
+  },
+  "statusMix": {
+    "Expired (policy)": 0,
+    "Near ED — Return window closed": 0,
+    "Near ED — Return window open": 0
+  },
+  "byStore": []
+}
