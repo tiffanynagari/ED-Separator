@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-02T07:02:51",
-  "dateTag": "02_Jul_2026",
-  "folderUrl": "https://drive.google.com/drive/folders/1fhOpdc_fYifsTGGEtxx488hiYrOf2F5n",
+  "generatedAt": "2026-07-03T07:29:42",
+  "dateTag": "03_Jul_2026",
+  "folderUrl": "https://drive.google.com/drive/folders/1rz6NKQcfBiRNjP-i653s5Rw0khHbJ3x-",
   "totals": {
-    "grossValueAtRisk": 73818178.0,
+    "grossValueAtRisk": 73709373.0,
     "uniqueSkus": 189,
     "branches": 25,
-    "rows": 517
+    "rows": 515
   },
   "statusMix": {
     "Expired (policy)": 4477391.0,
-    "Near ED \u2014 Return window closed": 20663742.0,
-    "Near ED \u2014 Return window open": 48677045.0
+    "Near ED \u2014 Return window closed": 20637592.0,
+    "Near ED \u2014 Return window open": 48594390.0
   },
   "byStore": [
     {
@@ -40,9 +40,9 @@
     },
     {
       "store": "Apotek Inofarma Kayu Manis",
-      "uniqueSkus": 37,
-      "value": 4812784.0,
-      "rows": 39
+      "uniqueSkus": 36,
+      "value": 4786634.0,
+      "rows": 38
     },
     {
       "store": "Apotek Inofarma Jembatan Besi",
@@ -53,7 +53,7 @@
     {
       "store": "Apotek Inofarma Kramat Sentiong",
       "uniqueSkus": 25,
-      "value": 4153541.0,
+      "value": 4145886.0,
       "rows": 25
     },
     {
@@ -154,9 +154,9 @@
     },
     {
       "store": "Apotek Inofarma Syahdan",
-      "uniqueSkus": 10,
-      "value": 713844.0,
-      "rows": 10
+      "uniqueSkus": 9,
+      "value": 638844.0,
+      "rows": 9
     },
     {
       "store": "Apotek Inofarma Parakan",
