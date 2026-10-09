@@ -1,83 +1,69 @@
 {
-  "generatedAt": "2026-10-08T04:10:01",
-  "dateTag": "08_Oct_2026",
-  "folderUrl": "https://drive.google.com/drive/folders/1bYee972rfjHhQ2XHhd8Kp0sNLH1Vlmod",
-  "aggregation": "Store + SKU ID + Batch",
+  "generatedAt": "2026-10-09T09:01:57",
+  "dateTag": "09_Oct_2026",
+  "folderUrl": "https://drive.google.com/drive/folders/1Mi_rAxwrke3SQQHxlIyNKk903AoHeMPD",
+  "aggregation": "Store + SKU ID",
   "totals": {
-    "grossValueAtRisk": 313836846.0,
-    "uniqueSkus": 354,
-    "uniqueSkuBatches": 1121,
+    "grossValueAtRisk": 299777327.0,
+    "uniqueSkus": 358,
+    "uniqueSkuBatches": 358,
     "branches": 36,
-    "rows": 1121
+    "rows": 1070
   },
   "statusMix": {
     "Expired (policy)": 2993007.0,
-    "Near ED \u2014 Return window closed": 117687958.0,
-    "Near ED \u2014 Return window open": 193155881.0
+    "Near ED \u2014 Return window closed": 119784024.0,
+    "Near ED \u2014 Return window open": 177000296.0
   },
   "byStore": [
     {
       "store": "Apotek Inofarma Kayu Manis",
-      "uniqueSkus": 62,
-      "uniqueSkuBatches": 67,
-      "value": 32209790.0,
-      "rows": 67
-    },
-    {
-      "store": "Apotek Inofarma Kalibaru",
-      "uniqueSkus": 44,
-      "uniqueSkuBatches": 45,
-      "value": 18978650.0,
-      "rows": 45
+      "uniqueSkus": 63,
+      "uniqueSkuBatches": 63,
+      "value": 32245540.0,
+      "rows": 63
     },
     {
       "store": "Apotek Inofarma Fajar Baru",
-      "uniqueSkus": 38,
-      "uniqueSkuBatches": 38,
-      "value": 18836622.0,
-      "rows": 38
+      "uniqueSkus": 37,
+      "uniqueSkuBatches": 37,
+      "value": 18814364.0,
+      "rows": 37
     },
     {
       "store": "Apotek Inofarma Bukit Duri",
-      "uniqueSkus": 39,
-      "uniqueSkuBatches": 41,
-      "value": 17174295.0,
-      "rows": 41
+      "uniqueSkus": 40,
+      "uniqueSkuBatches": 40,
+      "value": 18191895.0,
+      "rows": 40
     },
     {
       "store": "Apotek Inofarma Pabuaran",
-      "uniqueSkus": 89,
-      "uniqueSkuBatches": 96,
-      "value": 15643122.0,
-      "rows": 96
+      "uniqueSkus": 88,
+      "uniqueSkuBatches": 88,
+      "value": 15622884.0,
+      "rows": 88
     },
     {
       "store": "Apotek Inofarma Kerja Bakti",
       "uniqueSkus": 36,
-      "uniqueSkuBatches": 38,
-      "value": 15210626.0,
-      "rows": 38
-    },
-    {
-      "store": "Apotek Inofarma Koja",
-      "uniqueSkus": 55,
-      "uniqueSkuBatches": 56,
-      "value": 14310079.0,
-      "rows": 56
+      "uniqueSkuBatches": 36,
+      "value": 15203526.0,
+      "rows": 36
     },
     {
       "store": "Apotek Inofarma Jembatan Besi",
-      "uniqueSkus": 61,
-      "uniqueSkuBatches": 62,
-      "value": 14282822.0,
-      "rows": 62
+      "uniqueSkus": 63,
+      "uniqueSkuBatches": 63,
+      "value": 14947278.0,
+      "rows": 63
     },
     {
-      "store": "Apotek Inofarma Pulogebang",
-      "uniqueSkus": 22,
-      "uniqueSkuBatches": 22,
-      "value": 13254046.0,
-      "rows": 22
+      "store": "Apotek Inofarma Koja",
+      "uniqueSkus": 54,
+      "uniqueSkuBatches": 54,
+      "value": 14154784.0,
+      "rows": 54
     },
     {
       "store": "Apotek Inofarma Keamanan",
@@ -88,38 +74,45 @@
     },
     {
       "store": "Apotek Inofarma Warakas",
-      "uniqueSkus": 66,
-      "uniqueSkuBatches": 69,
-      "value": 12233426.0,
-      "rows": 69
+      "uniqueSkus": 67,
+      "uniqueSkuBatches": 67,
+      "value": 12288556.0,
+      "rows": 67
     },
     {
       "store": "Apotek Inofarma Tanah Pasir",
       "uniqueSkus": 50,
-      "uniqueSkuBatches": 53,
+      "uniqueSkuBatches": 50,
       "value": 12209042.0,
-      "rows": 53
+      "rows": 50
     },
     {
       "store": "Apotek Inofarma Taruna Jaya",
-      "uniqueSkus": 22,
-      "uniqueSkuBatches": 23,
-      "value": 11541619.0,
-      "rows": 23
+      "uniqueSkus": 21,
+      "uniqueSkuBatches": 21,
+      "value": 11532465.0,
+      "rows": 21
     },
     {
       "store": "Apotek Inofarma Kroncong",
-      "uniqueSkus": 57,
-      "uniqueSkuBatches": 69,
-      "value": 11443928.0,
-      "rows": 69
+      "uniqueSkus": 56,
+      "uniqueSkuBatches": 56,
+      "value": 11279790.0,
+      "rows": 56
+    },
+    {
+      "store": "Apotek Inofarma Kalibaru",
+      "uniqueSkus": 44,
+      "uniqueSkuBatches": 44,
+      "value": 10574450.0,
+      "rows": 44
     },
     {
       "store": "Apotek Inofarma Ampera",
       "uniqueSkus": 34,
-      "uniqueSkuBatches": 37,
-      "value": 9259428.0,
-      "rows": 37
+      "uniqueSkuBatches": 34,
+      "value": 9351920.0,
+      "rows": 34
     },
     {
       "store": "Apotek Inofarma Karet Raya",
@@ -129,32 +122,32 @@
       "rows": 2
     },
     {
-      "store": "Apotek Inofarma Kramat Sentiong",
-      "uniqueSkus": 40,
-      "uniqueSkuBatches": 44,
-      "value": 8765866.0,
-      "rows": 44
+      "store": "Apotek Inofarma Kebagusan",
+      "uniqueSkus": 34,
+      "uniqueSkuBatches": 34,
+      "value": 8995239.0,
+      "rows": 34
     },
     {
-      "store": "Apotek Inofarma Kebagusan",
-      "uniqueSkus": 32,
-      "uniqueSkuBatches": 34,
-      "value": 8745899.0,
-      "rows": 34
+      "store": "Apotek Inofarma Kramat Sentiong",
+      "uniqueSkus": 40,
+      "uniqueSkuBatches": 40,
+      "value": 8765866.0,
+      "rows": 40
     },
     {
       "store": "Apotek Inofarma Jengki",
       "uniqueSkus": 42,
-      "uniqueSkuBatches": 45,
+      "uniqueSkuBatches": 42,
       "value": 8357824.0,
-      "rows": 45
+      "rows": 42
     },
     {
       "store": "Apotek Inofarma Haji Nawi",
-      "uniqueSkus": 40,
-      "uniqueSkuBatches": 40,
-      "value": 8160801.0,
-      "rows": 40
+      "uniqueSkus": 41,
+      "uniqueSkuBatches": 41,
+      "value": 8246801.0,
+      "rows": 41
     },
     {
       "store": "Apotek Inofarma Kapten Yusuf",
@@ -165,10 +158,10 @@
     },
     {
       "store": "Apotek Inofarma Kalisari",
-      "uniqueSkus": 34,
-      "uniqueSkuBatches": 36,
-      "value": 7339285.0,
-      "rows": 36
+      "uniqueSkus": 35,
+      "uniqueSkuBatches": 35,
+      "value": 7318495.0,
+      "rows": 35
     },
     {
       "store": "Apotek Inofarma Duri Kepa",
@@ -178,18 +171,39 @@
       "rows": 22
     },
     {
+      "store": "Apotek Inofarma Pulogebang",
+      "uniqueSkus": 21,
+      "uniqueSkuBatches": 21,
+      "value": 4849846.0,
+      "rows": 21
+    },
+    {
       "store": "Apotek Inofarma Syahdan",
       "uniqueSkus": 23,
       "uniqueSkuBatches": 23,
-      "value": 4385031.0,
+      "value": 4372435.0,
       "rows": 23
     },
     {
       "store": "Apotek Inofarma Darul Fallah",
       "uniqueSkus": 21,
-      "uniqueSkuBatches": 22,
+      "uniqueSkuBatches": 21,
       "value": 3264850.0,
-      "rows": 22
+      "rows": 21
+    },
+    {
+      "store": "Apotek Inofarma Mekarsari",
+      "uniqueSkus": 9,
+      "uniqueSkuBatches": 9,
+      "value": 2577328.0,
+      "rows": 9
+    },
+    {
+      "store": "Apotek Inofarma Otista",
+      "uniqueSkus": 14,
+      "uniqueSkuBatches": 14,
+      "value": 2298941.0,
+      "rows": 14
     },
     {
       "store": "Apotek Inofarma Parakan",
@@ -199,25 +213,11 @@
       "rows": 16
     },
     {
-      "store": "Apotek Inofarma Otista",
-      "uniqueSkus": 13,
-      "uniqueSkuBatches": 13,
-      "value": 2263191.0,
-      "rows": 13
-    },
-    {
       "store": "Apotek Inofarma Komarudin",
       "uniqueSkus": 8,
       "uniqueSkuBatches": 8,
       "value": 1794187.0,
       "rows": 8
-    },
-    {
-      "store": "Apotek Inofarma Mekarsari",
-      "uniqueSkus": 9,
-      "uniqueSkuBatches": 10,
-      "value": 1588896.0,
-      "rows": 10
     },
     {
       "store": "Apotek Inofarma Harapan Baru",
@@ -229,16 +229,9 @@
     {
       "store": "Apotek Inofarma Hambali",
       "uniqueSkus": 11,
-      "uniqueSkuBatches": 12,
-      "value": 1275108.0,
-      "rows": 12
-    },
-    {
-      "store": "Apotek Inofarma Gandul",
-      "uniqueSkus": 8,
-      "uniqueSkuBatches": 8,
-      "value": 1226258.0,
-      "rows": 8
+      "uniqueSkuBatches": 11,
+      "value": 1229858.0,
+      "rows": 11
     },
     {
       "store": "Apotek Inofarma Mas Mansyur",
@@ -246,6 +239,13 @@
       "uniqueSkuBatches": 2,
       "value": 1191396.0,
       "rows": 2
+    },
+    {
+      "store": "Apotek Inofarma Gandul",
+      "uniqueSkus": 7,
+      "uniqueSkuBatches": 7,
+      "value": 1171258.0,
+      "rows": 7
     },
     {
       "store": "Apotek Inofarma Johar Baru",
@@ -256,10 +256,10 @@
     },
     {
       "store": "Apotek Inofarma Cawang",
-      "uniqueSkus": 1,
-      "uniqueSkuBatches": 1,
-      "value": 200649.0,
-      "rows": 1
+      "uniqueSkus": 2,
+      "uniqueSkuBatches": 2,
+      "value": 236399.0,
+      "rows": 2
     },
     {
       "store": "Apotek Inofarma Cilincing",
@@ -269,5 +269,5 @@
       "rows": 1
     }
   ],
-  "phase": 11
+  "phase": 12
 }
